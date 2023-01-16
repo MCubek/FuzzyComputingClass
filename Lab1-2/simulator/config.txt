@@ -1,0 +1,4 @@
+java -jar /Users/matejc/Dev/IntelliJ/mekrac/Lab1_MR/build/libs/Lab1_MR-1.0-SNAPSHOT.jar
+2
+20
+10
